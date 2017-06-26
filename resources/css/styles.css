@@ -45,3 +45,22 @@ a{
 .execute{
   height: 55px;
 }
+
+.design{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.footer{
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.btn{
+  font-size: 18px;
+  color: white;
+}
